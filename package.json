@@ -1,0 +1,12 @@
+{
+  "name": "gulp-scss2less",
+  "version": "1.0.0",
+  "description": "Gulp plugin wrapping less-plugin-sass2less",
+  "main": "index.js",
+  "repository": "git@github.com:friday/gulp-scss2less.git",
+  "author": "Albin Larsson",
+  "license": "MIT",
+  "dependencies": {
+    "less-plugin-sass2less": "mediafreakch/less-plugin-sass2less"
+  }
+}
