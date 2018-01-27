@@ -7,6 +7,6 @@
   "author": "Albin Larsson",
   "license": "MIT",
   "dependencies": {
-    "less-plugin-sass2less": "mediafreakch/less-plugin-sass2less"
+    "less-plugin-sass2less": "^1.2.0"
   }
 }

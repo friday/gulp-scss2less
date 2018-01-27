@@ -54,9 +54,9 @@ inherits@2:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
 
-less-plugin-sass2less@mediafreakch/less-plugin-sass2less:
-  version "1.1.2"
-  resolved "https://codeload.github.com/mediafreakch/less-plugin-sass2less/tar.gz/c1c6a896a124dc283ca18c5e820df66f14062fb5"
+less-plugin-sass2less@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/less-plugin-sass2less/-/less-plugin-sass2less-1.2.0.tgz#779cd050220277d828937182ceea5569519b20d5"
   dependencies:
     cli "^1.0.1"
     lodash "^4.17.2"
